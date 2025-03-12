@@ -62,6 +62,7 @@ For Java Servlet & JSP Project, update DBConnection.java:
 ###✅ **4. Add MySQL Connector JAR**
 If using manual JAR addition, place mysql-connector-java-9.0.1.jar inside the lib/ folder.
 If using Maven, it will automatically download the required dependencies.
+
 ###✅ **5. Run the Project**
 For a Java Servlet project:
 1. Deploy it in Apache Tomcat.
