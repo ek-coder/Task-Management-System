@@ -67,7 +67,7 @@ For a Java Servlet project:
 2. Start Tomcat Server.
 3. Access the app at http://localhost:8080/TaskManagementSystem/.
 
-###💡 Future Improvements
+💡 **Future Improvements:**
 ✅ Add task deadlines.
 ✅ Implement email notifications for task updates.
 ✅ Introduce task priority levels (High, Medium, Low).
