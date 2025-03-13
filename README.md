@@ -29,9 +29,7 @@ A simple and efficient **Task Management System** that allows employers to assig
 ## 🎯 How to Run
 
 ### ✅ **1. Clone the Repository**
-    ```sh
-    git clone https://github.com/your-username/Task-Management-System.git
-    cd Task-Management-System
+
 ###✅ **2. Set Up the Database**
   - Create a MySQL database:
     ```sh
